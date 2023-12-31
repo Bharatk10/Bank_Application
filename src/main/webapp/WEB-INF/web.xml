@@ -10,8 +10,5 @@
     <servlet-name>loginServlet</servlet-name>
     <servlet-class>com.zettamine.zetabank.entity.loginServlet</servlet-class>
   </servlet>
-  <servlet-mapping>
-    <servlet-name>loginServlet</servlet-name>
-    <url-pattern>/login</url-pattern>
-  </servlet-mapping>
+  
 </web-app>
