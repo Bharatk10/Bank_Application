@@ -1,0 +1,30 @@
+body {
+  display: flex;
+  flex-direction: column;
+  background-color: powderblue;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+  margin: 0;
+}
+
+.center-top {
+  text-align: center;
+}
+
+.center-middle {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.login-box {
+  width: 120px;
+  height: 60px;
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  padding: 20px;
+  box-shadow: 2px 2px 5px #888888;
+  margin: 0 20px;
+  text-align: center; 
+}

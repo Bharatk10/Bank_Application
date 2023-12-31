@@ -1,0 +1,35 @@
+form {
+	width: 400px;
+	background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+	border-radius: 20px;
+	box-shadow: 0 0 10px black;
+	padding: 10px;
+	color: white;
+	margin: 200px auto;
+}
+
+table {
+	font-size: 20px;
+	width: 100%;
+}
+
+tr {
+	height: 40px;
+}
+
+input {
+	font-size: 20px;
+}
+
+input[type=submit] {
+	display: block;
+	text-align: center;
+	padding: 5px 30px;
+	margin: auto;
+	border: none;
+	border-radius: 15px;
+}
+
+input[type=submit]:hover {
+	background: linear-gradient(0, red, yellow);
+}
